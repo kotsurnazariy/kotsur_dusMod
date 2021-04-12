@@ -1,0 +1,35 @@
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.deps.json
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.deps.json
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.deps.json
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.deps.json
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\Algorithms\obj\Debug\netcoreapp3.0\Algorithms.pdb

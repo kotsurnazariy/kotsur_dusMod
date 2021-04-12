@@ -1,0 +1,90 @@
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\Algorithms.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOh3ly61WwdjhSq634Dr7TMLruW/f/X3/z6yNUqouP73GoYGWcrisSCj0Ichfl62SlfugIZWaTTJ1Z+NzNFODA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\Desktop\\Кривий\\враіант\\Аня\\4 лаба\\Max-Flow-Problem-master\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

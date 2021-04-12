@@ -1,0 +1,4 @@
+O:\НУ ЛП\DM_CAD\lab1\DM_CAD\Lab1\x64\Debug\Lab1.exe
+O:\НУ ЛП\DM_CAD\lab1\DM_CAD\Lab1\x64\Debug\Lab1.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\1 лаба\Lab1\x64\Debug\Lab1.exe
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\1 лаба\Lab1\x64\Debug\Lab1.pdb

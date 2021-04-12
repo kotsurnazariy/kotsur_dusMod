@@ -1,0 +1,35 @@
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.deps.json
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csprojAssemblyReference.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Alisa\Desktop\lessons\6 sem\DO\kursach\Dinics\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.deps.json
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\форд фалкерсон\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.deps.json
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\ff\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.deps.json
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\bin\Debug\netcoreapp3.0\PathSearching.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfoInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.AssemblyInfo.cs
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.dll
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\4 лаба\Max-Flow-Problem-master\PathSearching\obj\Debug\netcoreapp3.0\PathSearching.pdb

@@ -1,0 +1,20 @@
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\Debug\TSP1.exe.config
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\Debug\TSP1.exe
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\Debug\TSP1.pdb
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\Debug\TSP1.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\Debug\TSP1.exe
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\Debug\TSP1.pdb
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.exe.config
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.exe
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.pdb
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.exe
+C:\Users\Latitude\Desktop\tsp\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.exe.config
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.exe
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\bin\Debug\TSP1.pdb
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.csprojAssemblyReference.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.exe
+C:\Users\Latitude\Desktop\Кривий\враіант\Аня\3 лаба\BranchAndBound-Algorithm-master\BranchAndBound-Algorithm-master\TSP1\obj\Debug\TSP1.pdb
